@@ -1,0 +1,12 @@
+http://localhost:8080/swagger-ui/index.html
+https://blogpessoalgabriela.herokuapp.com/swagger-ui/index.html
+https://dashboard.heroku.com/apps
+https://blogpessoalgabriela.herokuapp.com/swagger-ui/index.html#/
+file:///C:/Users/claud/Downloads/html2-client-generated/index.html
+file:///C:/Users/claud/OneDrive/%C3%81rea%20de%20Trabalho/fundamentos%20web/fundamentos-web/index.html
+
+git init
+git remote add origin (link)
+git add .
+git commit -m "nome"
+git push origin master
